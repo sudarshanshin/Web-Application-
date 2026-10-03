@@ -298,21 +298,21 @@ Web-Server-2 → Healthy
 
 
 01-web-server-1
-![instance](screenshots\instance.png)
+![instance](screenshots/instance.png)
 02-web-server-1-webpage
-![webpage1](screenshots\webpage1.png)
+![webpage1](screenshots/webpage1.png)
 03-web-server-2
-![instance](screenshots\instance2.png)
+![instance](screenshots/instance2.png)
 04-web-server-2-webpage.png
-![webpage2](screenshots\webpage2.png)
+![webpage2](screenshots/webpage2.png)
 05-target-group-created.png
-![target](screenshots\target.png)
+![target](screenshots/target.png)
 06-both-targets-healthy.png
-![health](screenshots\health.png)
+![health](screenshots/health.png)
 07-server-1-stopped-server-2-healthy.png
-![one-server](screenshots\one-server.png)
+![one-server](screenshots/one-server.png)
 08-both-targets-healthy-again.png
-![health](screenshots\health.png)
+![health](screenshots/health.png)
 
 ```
 
